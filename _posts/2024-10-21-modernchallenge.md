@@ -28,4 +28,5 @@ The Windows App SDK, formerly known as *Project Reunion*, is a modern framework 
 It provides a unified platform for building Windows apps using **WinUI 3**, **MSIX**, and other modern tools, making it easier to create applications that can leverage the latest Windows features.
 While the description on paper seems great, in practice, it’s very challenging to use outside the Visual Studio ecosystem, requiring significant effort and expertise.
 
-Let's tackle this challenge together.
+Using all these components to create modern native C/C++ applications is a real challenge, when you only use the command line.
+The next articles will detail a little more everything I was able to discover and will hopefully help you.
