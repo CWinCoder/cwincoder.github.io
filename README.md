@@ -1,7 +1,7 @@
 # WinCoder 
-### Insights into Native C/C++ Windows Programming
+#### Insights into Native C/C++ Windows Programming
 
-This is the repository for the WinCoder blog [https:\\cwincoder.github.io](https:\\cwincoder.github.io)
+This is the repository for the WinCoder blog [[https:\\cwincoder.github.io](https:\\cwincoder.github.io)]
 
 WinCoder is a blog dedicated to my daily journey in native C/C++ Windows programming. 
 This blog isn’t just about code snippets and tutorials; it’s about sharing the challenges, successes, and everything in between that I encounter as a C/C++ developer.
