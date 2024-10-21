@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  ":newspaper:Native WinUI 3 Applications: A Modern Challenge"
+title:  ":newspaper::black_square:Native WinUI 3 Applications: A Modern Challenge"
 categories: MSVC SDK WinUI3
 ---
 
 Compiling a native WinUI 3 application outside the Visual Studio ecosystem can feel like an obstacle course. For command line aficionados and makefile enthusiasts, the journey is no longer as straightforward as downloading a C/C++ compiler and the Windows SDK. The process has evolved, and with it, the complexity has increased.
 
-## What You Need Nowadays:
+## What you need nowadays:
 
 - A C/C++ compiler toolchain (Visual C++, available as a standalone tool)
 - The Windows SDK
@@ -14,7 +14,7 @@ Compiling a native WinUI 3 application outside the Visual Studio ecosystem can f
 - The latest C/C++ headers (generated from the Windows App SDK)
 - And a ton of patience and perseverance, as the path is strewn with pitfalls!
 
-### Visual C++ Compiler
+### Visual C++ compiler
 The Visual C++ compiler, part of Microsoft’s Visual Studio suite, is a powerful tool for building applications that leverage the C++ programming language.
 It provides advanced optimization features, robust debugging capabilities, and excellent support for modern C++ standards, making it an indispensable tool for Windows development. 
 Its integration with the Windows SDK and App SDK allows developers to create high-performance applications tailored for Windows platforms.
