@@ -12,7 +12,9 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more...</a><br>
+      <div style="margin-bottom: 10px">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more...</a>
+      </div>
     </article>
   {% endfor %}
 </div>
