@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ":newspaper:&nbspNative WinUI 3 Applications: A Modern Challenge"
+title:  ":newspaper: Native WinUI 3 Applications: A Modern Challenge"
 categories: MSVC SDK WinUI3
 ---
 
